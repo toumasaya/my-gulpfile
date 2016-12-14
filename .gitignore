@@ -1,0 +1,20 @@
+# DS_Store
+.DS_Store
+app/.DS_Store
+
+# Logs
+*.log
+logs
+
+# Dependency directories
+node_modules
+
+# sass cache
+.sass-cache
+*.css.map
+
+# .publish cache
+.publish
+
+# dist dir
+dist
