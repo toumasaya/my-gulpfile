@@ -1,0 +1,29 @@
+$susy: (
+  columns: 8,
+  gutters: 0.35,
+  gutter-position: after,
+  global-box-sizing: border-box,
+  debug: (
+    image: show,
+    color: rgba(#FF4F63, .15)
+  )
+);
+
+$fluid-layout: (
+  columns: 12,
+  gutter-position: inside,
+  debug: (image: show)
+);
+//
+// $inner-wrap: (
+//   container: 1140px,
+//   columns: 12,
+//   gutters: 0.35,
+//   gutter-position: after,
+//   debug: (
+//     image: hide
+//   )
+// );
+
+
+@include border-box-sizing;

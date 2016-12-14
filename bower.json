@@ -1,0 +1,21 @@
+{
+  "name": "my-gulpfile",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "toumasaya <luffy.w.pirate@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/toumasaya/my-gulpfile",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "^2.2.12",
+    "breakpoint-sass": "^2.7.1"
+  }
+}
